@@ -1,0 +1,23 @@
+class GameConstants:
+
+    WIN_WIDTH = 640
+    WIN_HEIGHT = 480
+    PADDLE_HEIGHT = 100
+    PADDLE_WIDTH = 20
+    PADDLE_VELOCITY = 7
+    PADDLE_DISTANCE_FROM_GOAL = 10
+    BALL_RADIUS = 10
+    BALL_VELOCITY = 12
+    GREEN = (36, 130, 50)
+    WHITE = (255, 255, 255)
+    RED = (255, 0, 0)
+    MAGENTA = (156, 123, 112)
+    GRAY = (200, 200, 200)
+    BLACK = (16, 3, 52)
+
+    UI_COLOR_1 = (191, 192, 194)
+    UI_COLOR_2 = (139, 21, 136)
+    UI_COLOR_3 = (193, 73, 83)
+    UI_COLOR_4 = (44, 26, 29)
+    UI_COLOR_5 = (73, 59, 42)
+    UI_COLOR_6 = (83, 158, 63)
